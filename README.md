@@ -1,4 +1,4 @@
-# Hactoberfest_SignIn_2019
+# Hactoberfest__2020
 
 The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
 
